@@ -1,0 +1,1 @@
+sleep echo echo echo echa echo TEAM 1). SAND MALWARE" *2). SAND TROJANS AUTHOR: MR Abizar TEXNOLOGI INDONESIA read-p "pilih virus then read-p"masukan nomor target while I true 11 echo "sand malware ke $nomor telah berhasil" dane *2" 11 then read -p "sasukan nomor target while true пoвor 2 dane "sand trojans ke Snomor2 telah berhasil"
